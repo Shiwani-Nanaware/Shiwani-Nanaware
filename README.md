@@ -45,12 +45,9 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="www.linkedin.com/in/shiwani-nanaware-5aa223330" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
-<a href="mailto:shiwanidn@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="gmail"/></a>
-</p>
+<a href="https://www.linkedin.com/in/shiwani-nanaware-5aa223330" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
+<a href="mailto:shiwanidn@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
 
----
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shiwani-Nanaware&theme=tokyonight"/>
 </p>

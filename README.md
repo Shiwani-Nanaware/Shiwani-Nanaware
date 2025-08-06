@@ -15,6 +15,8 @@
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Shiwani-Nanaware&color=blue)
+
 ## 🛠️ Tech Stack & Tools
 <p align="left">
   <!-- Programming Languages -->

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiwani Nanaware</h1>
 <h3 align="center">B.Tech Computer Engineering Student | Web Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Passionate+about+Web+Development;Loves+Solving+Real+World+Problems;Computer+Engineering+Student" alt="Typing SVG" />
-</p>
 
 ---
 

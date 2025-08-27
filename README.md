@@ -11,7 +11,6 @@
 🌱 Interested in **Open Source Projects** and **Backend Development**  
 
 ---
----
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shiwani-Nanaware&color=blue)
 

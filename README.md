@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiwani Nanaware</h1>
-<h3 align="center">B.Tech Computer Engineering Student | Web Developer | Problem Solve</h3>
+<h3 align="center">B.Tech Computer Engineering Student | Web Developer | Problem Solver</h3>
 
 
 ---

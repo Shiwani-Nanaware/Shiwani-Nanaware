@@ -2,8 +2,7 @@
 <h3 align="center">B.Tech Computer Engineering Student | Web Developer | Problem Solver</h3>
 
 
----
-
+--
 ## 👩‍🎓 About Me  
 🎓 I'm pursuing **B.Tech in Computer Engineering** at **KK Wagh Institute of Engineering Education & Research, Nashik**  
 🌐 I love to develop **web applications** to solve real-world problems  
